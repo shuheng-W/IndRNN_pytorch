@@ -8,7 +8,7 @@ Tested with Python3.6 and pytorch 0.3.1
 Features:
 - batch_size first
 - allow define the init hidden state h
-- add the code IndRNN for nmt (IndRNN for nmt，and the colab url:https://drive.google.com/file/d/1SUUX667FQJusb_lwu0gpLRYI861LbnnI/view?usp=sharing)
+- add the code IndRNN for nmt (IndRNN for nmt，and the colab url:https://colab.research.google.com/drive/1SUUX667FQJusb_lwu0gpLRYI861LbnnI)
 
 todo:
 - add Bidirection
